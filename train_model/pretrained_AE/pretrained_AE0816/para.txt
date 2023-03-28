@@ -1,0 +1,1 @@
+train.py --epoch_num 40001 --save_dir pretrained_AE0816

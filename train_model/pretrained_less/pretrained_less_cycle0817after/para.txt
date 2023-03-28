@@ -1,0 +1,1 @@
+train.py --dis_linear true --save_dir ./pretrained_less_cycle0817after --model cycle --epoch_num 50001 --lambda_rec 10 --lambda_cycle 1 --lambda_gan 1
